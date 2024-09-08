@@ -1,4 +1,3 @@
 include:
   - .well-known
-remote_theme: fuse-core
-
+theme: fuse-core
